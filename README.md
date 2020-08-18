@@ -1,9 +1,8 @@
-# CLoning my website
+## CLoning my website
 
 This is nothing but the **TRUTH**
 and i really mean it hen i say this.
 
-# Resolving conflict locally
 
-# Purpose
+## Purpose
 Updating README with a new purpose section
